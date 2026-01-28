@@ -1,0 +1,30 @@
+{
+  "users_storage": {
+    "843274848": {
+      "username": "xalatnoctb",
+      "first_name": "smth?",
+      "last_name": null,
+      "chat_id": 843274848,
+      "joined_date": "2026-01-16T12:59:23.943434",
+      "last_active": "2026-01-28T11:46:20.856333",
+      "is_admin": true
+    },
+    "8281693562": {
+      "username": "DopamineIndependence",
+      "first_name": "Dopamine",
+      "last_name": null,
+      "chat_id": -1003584368486,
+      "joined_date": "2026-01-16T12:51:03.256251",
+      "last_active": "2026-01-16T12:51:40.638653",
+      "is_admin": false
+    }
+  },
+  "chat_users": {
+    "843274848": [
+      843274848
+    ],
+    "-1003584368486": [
+      8281693562
+    ]
+  }
+}
